@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a6edaa-db67-4847-8265-18fcf42e3c7e" name="Changes" comment="Ya tengo cosas">
+    <list default="true" id="d4a6edaa-db67-4847-8265-18fcf42e3c7e" name="Changes" comment="Parte de cadena terminado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ejercicios Basicos Python/02Cadenas/ejercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/02Cadenas/ejercicio11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669220193590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Parte de cadena terminado">
+      <created>1669220528916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669220528916</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ya tengo cosas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ya tengo cosas" />
+    <MESSAGE value="Parte de cadena terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parte de cadena terminado" />
   </component>
 </project>
