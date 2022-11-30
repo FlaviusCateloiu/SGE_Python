@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a6edaa-db67-4847-8265-18fcf42e3c7e" name="Changes" comment="Ya es ta el seis de condicionales.">
-      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/03Condicionales/ejercicio09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/03Condicionales/ejercicio10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/04Bucle/ejercicio02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/04Bucle/ejercicio09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/04Bucle/ejercicio12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio01.py" afterDir="false" />
+    <list default="true" id="d4a6edaa-db67-4847-8265-18fcf42e3c7e" name="Changes" comment="Estoy por listas y tuplas.">
+      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669400721425</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Estoy por listas y tuplas.">
+      <created>1669404409669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669404409669</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +117,7 @@
     <MESSAGE value="Ya tengo cosas" />
     <MESSAGE value="Parte de cadena terminado" />
     <MESSAGE value="Ya es ta el seis de condicionales." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ya es ta el seis de condicionales." />
+    <MESSAGE value="Estoy por listas y tuplas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Estoy por listas y tuplas." />
   </component>
 </project>
