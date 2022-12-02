@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a6edaa-db67-4847-8265-18fcf42e3c7e" name="Changes" comment="ejercicios de lista y tuplas del 1 al 5">
-      <change afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d4a6edaa-db67-4847-8265-18fcf42e3c7e" name="Changes" comment="Terminado los ejercicios Secillos python.">
+      <change beforePath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios Basicos Python/05ListasYTuplas/ejercicio13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669826567925</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Terminado los ejercicios Secillos python.">
+      <created>1670006040202</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670006040202</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Terminado los ejercicios Secillos python.">
+      <created>1670006110300</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670006110300</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +143,7 @@
     <MESSAGE value="Ya es ta el seis de condicionales." />
     <MESSAGE value="Estoy por listas y tuplas." />
     <MESSAGE value="ejercicios de lista y tuplas del 1 al 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicios de lista y tuplas del 1 al 5" />
+    <MESSAGE value="Terminado los ejercicios Secillos python." />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminado los ejercicios Secillos python." />
   </component>
 </project>
